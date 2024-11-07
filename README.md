@@ -18,13 +18,13 @@ List all dependencies and their version needed by the project as :
 
 Note : only tested on Windows 11
 
-||||
-|:--|:|:--|
-|Purpose| Name |Version|
-|IDE|[PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows) |2024.2.4|
-|Interpreter|[Python](https://www.python.org/downloads/) |3.31.0|
-|Package Manager|[Pip](https://pypi.org/project/pip/) |24.3.1|
-|VCS|[Git](https://git-scm.com/) |24.3.1|
+||                                                                         ||
+|:--|:------------------------------------------------------------------------|:--|
+|Role| Name                                                                    |Version|
+|IDE| [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows)  |2024.2.4|
+|Interpreter| [Python](https://www.python.org/downloads/)                             |3.31.0|
+|Package Manager| [Pip](https://pypi.org/project/pip/)                                    |24.3.1|
+|VCS| [Git](https://git-scm.com/)                                             |24.3.1|
 
 ### Configuration
 
