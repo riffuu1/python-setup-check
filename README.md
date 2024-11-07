@@ -47,7 +47,8 @@ How to deploy the application outside the dev environment.
 * Tip: try the tree bash command
 
 ```shell
-├───src                                              //source code
+├───src                                             //source code
+├───test                                            //test file
 ├───.gitignore                                      //main .gitignore
 └───README                                          //repo readme
 ```
